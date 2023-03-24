@@ -1,4 +1,6 @@
-﻿using Task3;
+﻿using System;
+using System.Linq;
+using Task3;
 
 public class Program
 {
